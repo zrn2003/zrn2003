@@ -20,8 +20,7 @@ I'm a Computer Science Engineering graduate (B.E., SKN Sinhgad College of Engine
 
 Right now I'm working on two fronts at once:
 
-- 🔍 **Job hunting** — Software Engineering, QA, Cybersecurity, and AI/ML roles (remote-friendly, open to EU shift hours)
-- 🎓 **Grad school applications** — fully-funded MS in Computer Science (Cybersecurity / AI & ML) at top Taiwanese universities — NTU, NTHU, NYCU, NCKU, Taiwan Tech
+- 🔍 **Job hunting** — Software Engineering, QA, Cybersecurity, and AI/ML roles (remote-friendly, open to EU shift hours
 
 ---
 

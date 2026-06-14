@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Zishan Nadaf 👋
@@ -179,11 +178,4 @@ Building practical software, exploring AI agents, MCP workflows, cybersecurity t
 
 </div>
 
-<!--
-Optional:
-Add contribution snake animation later:
-
-https://github.com/Platane/snk
-
--->
 ```

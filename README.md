@@ -1,95 +1,189 @@
+```md
 <div align="center">
 
 # Hi, I'm Zishan Nadaf 👋
 
-### Software Engineer · Cybersecurity Enthusiast · AI/ML Explorer
+### Software Engineer • Cybersecurity Enthusiast • AI/ML Explorer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zishannadaf.dev-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zishannadaf.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zishanrn2003-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zishanrn2003)
-[![Email](https://img.shields.io/badge/Email-zishanrn2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zishanrn2003@gmail.com)
+<p>
+<a href="https://zishannadaf.dev">
+<img src="https://img.shields.io/badge/Portfolio-zishannadaf.dev-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zrn2003&label=Profile%20Views&color=0e75b6&style=flat)
+<a href="https://linkedin.com/in/zishanrn2003">
+<img src="https://img.shields.io/badge/LinkedIn-zishanrn2003-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:zishanrn2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-zishanrn2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=zrn2003&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=flat" />
+<img src="https://img.shields.io/badge/Research-Published-blue?style=flat" />
+</p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a Computer Science Engineering graduate (B.E., SKN Sinhgad College of Engineering, Pune University) with a minor specialization in **Cybersecurity & Digital Forensics**. I've spent the past year building real-world software as a Software Development Trainee, alongside shipping personal projects across AI/ML and security.
+🎓 Computer Science Engineering Graduate (Pune University)
 
-Right now I'm working on two fronts at once:
+🔐 Minor Specialization in Cybersecurity & Digital Forensics
 
-- 🔍 **Job hunting** — Software Engineering, QA, Cybersecurity, and AI/ML roles (remote-friendly, open to EU shift hours
+💻 Software Development Trainee with experience building real-world applications
 
----
+🤖 Exploring AI/ML, Automation, Security Engineering and Modern Developer Tools
 
-### 🧩 Featured Projects
-
-**🩺 SkinSight — AI-Powered Skin Disease Detection**
-A ResNet50-based image classification model served via Flask with a React frontend, helping users get quick preliminary insights on skin conditions. Published as a research paper in **IJSRET**.
-`Python` `TensorFlow / Keras` `Flask` `React.js`
-
-**🛡️ PhishGuard AI — Phishing Detection System**
-A cybersecurity project that analyzes URLs/emails using ML-driven heuristics to flag phishing attempts — built as part of my Digital Forensics specialization.
-`Python` `Machine Learning` `Security`
-
-**📋 Smart Attendance System**
-An automation tool that streamlines attendance tracking for classrooms and organizations, cutting down manual record-keeping.
-`Python` `Automation`
+🌍 Open to Software Engineering, QA, Cybersecurity and AI/ML opportunities
 
 ---
 
-### 🛠️ Tech Stack
+## 🧩 Featured Projects
 
-**Languages**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🩺 SkinSight — AI-Powered Skin Disease Detection
 
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+- ResNet50-based image classification model
+- Flask backend + React frontend
+- Research paper published in IJSRET
 
-**Cloud, Data & DevOps**
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Tech:** `Python` `TensorFlow` `Keras` `Flask` `React`
 
 ---
 
-### 📊 GitHub Stats
+### 🛡️ PhishGuard AI — Phishing Detection System
+
+- Detects phishing URLs and suspicious content
+- ML-driven analysis and classification
+- Built during Cybersecurity specialization
+
+**Tech:** `Python` `Machine Learning` `Cybersecurity`
+
+---
+
+### 📋 Smart Attendance System
+
+- Attendance automation platform
+- Reduces manual tracking effort
+- Notification and reporting workflows
+
+**Tech:** `Python` `Automation`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+
+### Cloud, Databases & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrn2003&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zrn2003&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=zrn2003&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=zrn2003&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Analytics
 
-<p align="left">
-<a href="https://linkedin.com/in/zishanrn2003" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-<a href="https://www.codechef.com/users/zishanrn2003" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/zrn2003" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/></a>
-<a href="https://twitter.com/zrn2003" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zrn2003&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrn2003&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zrn2003&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zrn2003&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/zishanrn2003">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.hackerrank.com/zrn2003">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/zishanrn2003">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:zishanrn2003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 </p>
 
 ---
 
 <div align="center">
-<i>💡 Currently exploring how AI agents and the Model Context Protocol (MCP) are reshaping developer workflows.</i>
+
+### 💡 Current Focus
+
+Building practical software, exploring AI agents, MCP workflows, cybersecurity tooling, and modern developer ecosystems.
+
 </div>
+
+<!--
+Optional:
+Add contribution snake animation later:
+
+https://github.com/Platane/snk
+
+-->
+```

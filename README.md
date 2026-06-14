@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering Graduate (Pune University)
+🎓 Computer Science Engineering Graduate (Solapur University)
 
 🔐 Minor Specialization in Cybersecurity & Digital Forensics
 

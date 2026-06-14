@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi, I'm Zishan Nadaf 👋
@@ -19,9 +20,17 @@
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=zrn2003&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=flat" />
-<img src="https://img.shields.io/badge/Research-Published-blue?style=flat" />
+<img src="https://komarev.com/ghpvc/?username=zrn2003&label=Profile+Views&color=0e75b6&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/zrn2003?label=Followers&style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=flat-square"/>
+</p>
+
+<p>
+<a href="https://ijsret.com/wp-content/uploads/IJSRET_V12_issue2_370.pdf">
+<img src="https://img.shields.io/badge/IJSRET-Research_Paper-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+</a>
 </p>
 
 </div>
@@ -30,15 +39,17 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering Graduate (Solapur University)
+🎓 Computer Science Engineering Graduate
 
 🔐 Minor Specialization in Cybersecurity & Digital Forensics
 
 💻 Software Development Trainee with experience building real-world applications
 
-🤖 Exploring AI/ML, Automation, Security Engineering and Modern Developer Tools
+🤖 Interested in AI/ML, Automation, Cybersecurity and Software Engineering
 
 🌍 Open to Software Engineering, QA, Cybersecurity and AI/ML opportunities
+
+📍 India
 
 ---
 
@@ -46,31 +57,31 @@
 
 ### 🩺 SkinSight — AI-Powered Skin Disease Detection
 
-- ResNet50-based image classification model
-- Flask backend + React frontend
-- Research paper published in IJSRET
+A ResNet50-based image classification system that helps identify skin diseases from uploaded images. Built using Flask and React and published as a research paper in IJSRET.
 
-**Tech:** `Python` `TensorFlow` `Keras` `Flask` `React`
+**Tech Stack**
+
+`Python` `TensorFlow` `Keras` `Flask` `React`
 
 ---
 
 ### 🛡️ PhishGuard AI — Phishing Detection System
 
-- Detects phishing URLs and suspicious content
-- ML-driven analysis and classification
-- Built during Cybersecurity specialization
+Machine-learning-based phishing detection platform that analyzes URLs and suspicious content to help identify phishing attempts.
 
-**Tech:** `Python` `Machine Learning` `Cybersecurity`
+**Tech Stack**
+
+`Python` `Machine Learning` `Cybersecurity`
 
 ---
 
 ### 📋 Smart Attendance System
 
-- Attendance automation platform
-- Reduces manual tracking effort
-- Notification and reporting workflows
+Attendance automation platform designed to reduce manual tracking efforts and simplify attendance reporting and notification workflows.
 
-**Tech:** `Python` `Automation`
+**Tech Stack**
+
+`Python` `Automation`
 
 ---
 
@@ -78,27 +89,37 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+</p>
 
-### Frameworks & Tools
+### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask"/>
+</p>
 
-### Cloud, Databases & DevOps
+### Databases
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,androidstudio,gcp,postman,vscode"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- AI Agents & MCP (Model Context Protocol)
+- Cybersecurity Tools & Workflows
+- Cloud Computing
+- Software Architecture
+- Applied Machine Learning
 
 ---
 
@@ -106,7 +127,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zrn2003&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=zrn2003&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -121,6 +142,8 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrn2003&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -142,7 +165,7 @@
 
 ## 💻 Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.codechef.com/users/zishanrn2003">
 <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
@@ -152,20 +175,34 @@
 <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://linkedin.com/in/zishanrn2003">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:zishanrn2003@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+> Enable GitHub Actions in your profile repository to generate this automatically.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/zrn2003/zrn2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -176,6 +213,7 @@
 
 Building practical software, exploring AI agents, MCP workflows, cybersecurity tooling, and modern developer ecosystems.
 
+⭐ If you find my work interesting, feel free to connect or collaborate.
+
 </div>
 
-```

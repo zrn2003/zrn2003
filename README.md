@@ -129,8 +129,15 @@ Attendance automation platform designed to reduce manual tracking efforts and si
 
 <img src="https://github-profile-trophy.vercel.app/?username=zrn2003&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-</div>
+<br><br>
 
+![YOLO](https://img.shields.io/badge/GitHub-YOLO-success?style=for-the-badge&logo=github)
+
+![Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark-blue?style=for-the-badge&logo=github)
+
+![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-purple?style=for-the-badge&logo=github)
+
+</div>
 ---
 
 ## 📊 GitHub Analytics

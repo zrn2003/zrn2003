@@ -189,10 +189,8 @@ Attendance automation platform designed to reduce manual tracking efforts and si
 
 ## 🐍 Contribution Snake
 
-> Enable GitHub Actions in your profile repository to generate this automatically.
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/zrn2003/zrn2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/zrn2003/zrn2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
